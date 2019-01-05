@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <com.fingdo.statelayout.StateLayout
+        xmlns:sl="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/mStatelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        sl:emptyImg="@mipmap/ic_state_empty"
+        sl:emptyText="没有数据,请重试"
+        sl:errorImg="@mipmap/ic_state_error"
+        sl:errorText="加载失败"
+        sl:loadingText="正在加载"
+        sl:noNetworkImg="@mipmap/ic_state_no_network"
+        sl:noNetworkText="网络异常">
+        <com.scwang.smartrefresh.layout.SmartRefreshLayout
+            android:id="@+id/mSmartRefreshLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/mrecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:overScrollMode="never" />
+        </com.scwang.smartrefresh.layout.SmartRefreshLayout>
+    </com.fingdo.statelayout.StateLayout>
+</LinearLayout>

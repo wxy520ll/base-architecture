@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_normal"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:theme="@style/toolbar_white_theme"
+         >
+        <TextView
+            android:id="@+id/centerTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:textSize="16dp"
+            android:layout_gravity="center_horizontal"
+            android:text="附近"/>
+        <TextView
+            android:id="@+id/tvRightTitle"
+            android:text="确定"
+            android:visibility="invisible"
+            android:layout_marginRight="10dp"
+            android:textSize="16dp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center|right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tvLeftTitle"
+            android:text="确定"
+            android:visibility="invisible"
+            android:layout_marginLeft="10dp"
+            android:textSize="16dp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center|left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </android.support.v7.widget.Toolbar>
+</RelativeLayout>
