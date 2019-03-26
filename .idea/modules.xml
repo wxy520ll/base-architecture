@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-architecture.iml" filepath="$PROJECT_DIR$/base-architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/refresh-layout/refresh-layout.iml" filepath="$PROJECT_DIR$/refresh-layout/refresh-layout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seek-master.iml" filepath="$PROJECT_DIR$/seek-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/xylibrary/xylibrary.iml" filepath="$PROJECT_DIR$/xylibrary/xylibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/xymaplibrary/xymaplibrary.iml" filepath="$PROJECT_DIR$/xymaplibrary/xymaplibrary.iml" />
     </modules>

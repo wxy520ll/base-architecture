@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lzy.net:okrx2:2.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/c2c3476e5d9047cb08d4cc93a05e0637/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/c2c3476e5d9047cb08d4cc93a05e0637/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lzy.net/okrx2/2.0.2/1c33a496ab097664d66f90460ed80550a50ad926/okrx2-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

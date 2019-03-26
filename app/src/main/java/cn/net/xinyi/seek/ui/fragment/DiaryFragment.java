@@ -26,8 +26,6 @@ import cn.net.xinyi.seek.ui.fragment.adapter.ContentPagerAdapter;
  * 设置
  */
 public class DiaryFragment extends BaseMvpFragment<LoginPresenter> {
-
-
     @Bind(R.id.tvFouce)
     TextView tvFouce;
     @Bind(R.id.tvRecommand)

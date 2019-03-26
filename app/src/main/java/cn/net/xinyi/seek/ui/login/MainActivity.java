@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
     public FragmentTransaction mFragmentTransaction;
     public Fragment selectFragment;
     private TextView mTextMessage;
+
+
+
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
 

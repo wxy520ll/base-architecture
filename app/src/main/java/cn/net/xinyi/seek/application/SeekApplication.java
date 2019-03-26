@@ -8,6 +8,8 @@ public class SeekApplication extends XinYiApplication {
     @Override
     public void onCreate() {
         super.onCreate();
+
+
         XinYiMapSdk.initMapSdk(this);
     }
 }
