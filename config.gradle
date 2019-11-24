@@ -58,7 +58,7 @@ ext {
             "rxpermissions"                : "com.tbruyelle.rxpermissions2:rxpermissions:0.9.3@aar",
             "rxlifecycle"                  : "com.trello:rxlifecycle:0.3.1",
             "rxlifecycle-components"       : "com.trello:rxlifecycle-components:0.3.1",
-            "okrx"                         : "com.lzy.net:okrx2:2.0.2",
+            "okrx"                         : "rxandroid",
 
             //network
             "gson"                         : "com.google.code.gson:gson:2.7",

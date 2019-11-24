@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.lzy.net:okrx2:2.0.2@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/c2c3476e5d9047cb08d4cc93a05e0637/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/c2c3476e5d9047cb08d4cc93a05e0637/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/72d670409362b9132f305cc847867de6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okrx2-2.0.2.aar/72d670409362b9132f305cc847867de6/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
